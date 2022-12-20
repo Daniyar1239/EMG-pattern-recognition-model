@@ -1,6 +1,8 @@
 # EMG-pattern-recognition-model
 This code is for the design of a bionic/myoelectric prosthesis based on the Pattern Recognition (PR) control scheme.
 
+The feature extraction part has been built upon the works in: https://www.sce.carleton.ca/faculty/chan/index.php?page=matlab and https://www.sce.carleton.ca/faculty/chan/index.php?page=matlab.
+
 The PR model involves three major stages like signal preprocessing (e.g., denoising), feature engineering (feature extraction & selection), and signal classification based on Machine/Deep Learning (ML/DL) algorithms.
 ![image](https://user-images.githubusercontent.com/111345810/208375447-c894a7b8-c6f7-4ce5-be68-0c4fc0a396fa.png)
 
